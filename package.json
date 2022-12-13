@@ -1,0 +1,23 @@
+{
+  "name": "devops-ecom",
+  "version": "1.0.0",
+  "description": "This is DevOps Ecom Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanaBKamal/devops-ecom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanaBKamal/devops-ecom/issues"
+  },
+  "homepage": "https://github.com/RanaBKamal/devops-ecom#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
